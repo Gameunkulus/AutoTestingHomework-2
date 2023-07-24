@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nk82v1pr6blsg89e?svg=true)](https://ci.appveyor.com/project/Nickolay/autotestinghomework-2)
